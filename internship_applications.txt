@@ -1,0 +1,1 @@
+['Company: Microsoft, Role: Software Engineer, Status: Applied']
